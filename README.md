@@ -12,14 +12,15 @@ ThreatScope is a **Threat Intelligence Tool** that helps track and analyze **sus
 - Uses **environment variables** for API key security  
 
 ## Installation
-1. **Clone the Repository**  
+1. **Clone the Repository**
+2. https://github.com/prakharvr02/Malwatch.git
 
 
-2. **Set Up API Keys**  
+3. **Set Up API Keys**  
 Rename `.env.example` to `.env` and add your API keys:
 VIRUSTOTAL_API_KEY=your_virustotal_api_key ABUSEIPDB_API_KEY=your_abuseipdb_api_key GREYNOISE_API_KEY=your_greynoise_api_key
 
-3. **Install Dependencies**  
+4. **Install Dependencies**  
 pip install -r requirements.txt
 
 
